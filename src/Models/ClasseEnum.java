@@ -1,4 +1,10 @@
 package Models;
 
-public class ClasseEnum {
+public enum ClasseEnum {
+
+    Toyota;
+
+
+
+
 }

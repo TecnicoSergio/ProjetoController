@@ -1,5 +1,5 @@
 package Controllers;
 
-public class CepsController {
+public class CepsController{
 
 }
